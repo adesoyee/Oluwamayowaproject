@@ -1,7 +1,8 @@
 # take in one number
-x = ...
+x = 3
 
 # take in another
-y = ...
+y = 5
 
 # add together and print
+print(x+y)
